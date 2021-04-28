@@ -1,3 +1,4 @@
+* add spices
 * add cilantro
 * chop avocandos
 * chop onion 
